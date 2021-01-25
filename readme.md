@@ -9,6 +9,9 @@ Requirments:
            Keras
            Yolov4
            fer2013.csv
-           model_35_91_61.h5
 
 https://cutt.ly/fj1v00T
+
+
+links: 
+fer2013.csv -   https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
