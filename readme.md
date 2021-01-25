@@ -10,7 +10,7 @@ Requirments:
            Yolov4
            fer2013.csv
 
-https://cutt.ly/fj1v00T
+https://github.com/au-06/threat-detector/blob/main/test.jpg
 
 
 links: 
